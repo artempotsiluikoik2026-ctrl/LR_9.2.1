@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ЛР 9.2.1/ЛР 9.2.1.vcxproj" />
+</Solution>
